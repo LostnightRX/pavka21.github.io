@@ -1,7 +1,14 @@
-
+<p><a name="top"></a></p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>+Code+it)](https://git.io/typing-svg)
 
+## Быстрое перемещение к репам групп
+## <p><a href="#132">132</a>  <a href="#142">142</a> <a href="#152">152</a></p>
+
 <a href="https://github.com/pavka21/ege"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pavka21&repo=ege&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+ 
+
+
+<p><a name="122"></a></p> 
 
 # 122
 
@@ -17,7 +24,6 @@
 
 
 <a href="https://github.com/grad154/timurbakeev154"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=grad154&repo=timurbakeev154&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> grad154
-
 
 <a href="https://github.com/evgrfg/123456"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evgrfg&repo=123456&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> evgrfg 
 
@@ -56,6 +62,12 @@
 <a href="https://github.com/ilyechubanu/itworks"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ilyechubanu&repo=itworks&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  ilyechubanu
 
 <a href="https://github.com/katela2006/Alexey"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=katela2006&repo=Alexey&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  katela2006
+
+<p><a name="132"></a></p>
+
+# 132
+
+<p><a name="142"></a></p>
 
 # 142
 
@@ -103,8 +115,27 @@
 
 <a href="https://github.com/oxxrayy/popova142"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oxxrayy&repo=popova142&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  oxxrayy
 
+<p><a name="152"></a></p>
 
+# 152
 
+<p><a name="021"></a></p>
+
+# 021
+
+<p><a name="031"></a></p>
+
+# 031
+
+<p><a name="041"></a></p>
+
+# 041
+
+<p><a name="051"></a></p>
+
+# 051
+   
+<a href="#top">Наверх</a>
 ------------
 https://itnan.ru/post.php?c=1&p=649363
 
