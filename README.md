@@ -59,6 +59,8 @@
 
 <a href="https://github.com/SlavaTYTA/-"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SlavaTYTA&repo=-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  SlavaTYTA
 
+<a href="https://github.com/PleasePomogite/142"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=PleasePomogite&repo=142&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  PleasePomogite
+
 <a href="https://github.com/yeryerix/inf"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yeryerix&repo=inf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  yeryerix
 
 <a href="https://github.com/nikokastr/main-inform"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nikokastr&repo=main-inform&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  nikokastr
