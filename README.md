@@ -5,6 +5,8 @@
 
 # 122
 
+<a href="https://github.com/W1zard70r/Miniature-chainsaw"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=W1zard70r&repo=Miniature-chainsaw&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> W1zard70r 
+
 <a href="https://github.com/Aakookie/Kot"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakookie&repo=Kot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> Aakookie 
 
 <a href="https://github.com/Prostochell-228/UltraloxIT"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prostochell-228&repo=UltraloxIT&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> Prostochell-228
