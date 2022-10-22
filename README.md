@@ -8,7 +8,7 @@
 
 <a href="https://github.com/NikitaDavydov11/FirstRepository"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaDavydov11&repo=FirstRepository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> NikitaDavydov11
 
-<a href="https://github.com//kirmala/school"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=/kirmala&repo=school&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> kirmala
+<a href="https://github.com//kirmala/school"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kirmala&repo=school&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> kirmala
 
 
 <a href="https://github.com/grad154/timurbakeev154"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=grad154&repo=timurbakeev154&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> grad154
