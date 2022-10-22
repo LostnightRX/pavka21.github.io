@@ -56,6 +56,8 @@
 <a href="https://github.com/katela2006/Alexey"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=katela2006&repo=Alexey&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  katela2006
 
 # 142
+https://github.com/vvlera/inf
+<a href="https://github.com/vvlera/inf"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vvlera&repo=inf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  vvlera
 
 <a href="https://github.com/SlavaTYTA/-"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SlavaTYTA&repo=-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  SlavaTYTA
 
