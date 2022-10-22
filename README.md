@@ -12,6 +12,7 @@
 https://github.com/kirmala/school
 
 <a href="https://github.com/NikitaDavydov11/FirstRepository"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaDavydov11&repo=FirstRepository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> 
+https://github.com/grad154/timurbakeev154
 
 <a href="https://github.com/evgrfg/123456"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evgrfg&repo=123456&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> evgrfg 
 
