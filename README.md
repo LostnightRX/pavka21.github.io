@@ -8,17 +8,17 @@
 
 <a href="https://github.com/NikitaDavydov11/FirstRepository"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaDavydov11&repo=FirstRepository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> NikitaDavydov11
 
-<a href="https://github.com/NikitaDavydov11/FirstRepository"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaDavydov11&repo=FirstRepository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> 
-https://github.com/kirmala/school
+<a href="https://github.com//kirmala/school"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=/kirmala&repo=school&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> kirmala
 
-<a href="https://github.com/NikitaDavydov11/FirstRepository"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaDavydov11&repo=FirstRepository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> 
-https://github.com/grad154/timurbakeev154
+
+<a href="https://github.com/grad154/timurbakeev154"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=grad154&repo=timurbakeev154&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> grad154
+
 
 <a href="https://github.com/evgrfg/123456"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evgrfg&repo=123456&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> evgrfg 
 
 <a href="https://github.com/AndreDem135/FirstRepository"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreDem135&repo=FirstRepository&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> AndreDem135 
 
-<a href="https://github.com/pxnandi/mslearn"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pxnandi&repo=mslearn&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  pxnandi :rage:
+<a href="https://github.com/pxnandi/tpu-learn"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pxnandi&repo=tpu-learn&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  pxnandi :rage:
 
 <a href="https://github.com/weissok/-22"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=weissok&repo=-22&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  weissok
 
