@@ -1,5 +1,6 @@
 <p><a name="top"></a></p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>+Code+it)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>)](https://git.io/typing-svg)
 
 ## Быстрое перемещение к репам групп
 ## <p><a href="#132">132</a>  <a href="#142">142</a> <a href="#152">152</a></p>
