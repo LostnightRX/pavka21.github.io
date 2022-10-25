@@ -11,7 +11,7 @@
 
 ## Быстрое перемещение к репам групп
 
-## <p><a href="#132">132</a>  <a href="#142">142</a> <a href="#152">152</a>  <a href="#021">021</a>  <a href="#031">031</a>  <a href="#041">041</a>  <a href="#051">051</a></p>
+## <a href="#132">132</a>  <a href="#142">142</a> <a href="#152">152</a>  <a href="#021">021</a>  <a href="#031">031</a>  <a href="#041">041</a>  <a href="#051">051</a>
 
 <a href="https://github.com/pavka21/ege"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pavka21&repo=ege&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
  
