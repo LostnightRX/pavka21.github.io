@@ -1,12 +1,16 @@
 <p><a name="top"></a></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>)](https://git.io/typing-svg)
+-------
+
 Тесты
 
 [Входной контроль](https://forms.gle/cwDne3ZF439Vc5127)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>)](https://git.io/typing-svg)
+---------------
 
 ## Быстрое перемещение к репам групп
+
 ## <p><a href="#132">132</a>  <a href="#142">142</a> <a href="#152">152</a>  <a href="#021">021</a>  <a href="#031">031</a>  <a href="#041">041</a>  <a href="#051">051</a></p>
 
 <a href="https://github.com/pavka21/ege"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pavka21&repo=ege&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
@@ -61,7 +65,7 @@
 
 <a href="https://github.com/VoroninVaycheslav/LearnOfInvormatic"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VoroninVaycheslav&repo=LearnOfInvormatic&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  VoroninVaycheslav
 
-<a href="https://github.com/NightSkymbry/tpu-lic-Osipov-Slava"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=NightSkymbry&repo=tpu-lic-Osipov-Slava&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  NightSkymbry :lock_with_ink_pen:
+<a href="https://github.com/NightSkymbry/tpu-lic-Osipov-Slava"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=NightSkymbry&repo=tpu-lic-Osipov-Slava&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  NightSkymbry
 
 <a href="https://github.com/ilyechubanu/itworks"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ilyechubanu&repo=itworks&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  ilyechubanu
 
