@@ -1,5 +1,9 @@
 <p><a name="top"></a></p>
 
+Тесты
+
+[Входной контроль](https://forms.gle/cwDne3ZF439Vc5127)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>)](https://git.io/typing-svg)
 
 ## Быстрое перемещение к репам групп
