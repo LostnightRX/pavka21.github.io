@@ -5,6 +5,8 @@
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPEQjznA=/?moveToViewport=-627,-312,985,500&embedId=419545844467" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+[lucidchart](https://lucid.app/lucidchart/d1697d22-b812-48bb-a067-92c965054153/edit?viewport_loc=113%2C61%2C1997%2C876%2Cysb9_hdTKJg-&invitationId=inv_c48beac3-0969-4533-82e9-77563da7acca)
+
 ---------------
 
 
